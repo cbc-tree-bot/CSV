@@ -1,0 +1,373 @@
+Number,Genus,Scientific Name,Common Name,Family,Type,Form,iTree Code,Carbon Category
+2,Callistemon viminalis,Callistemon viminalis,Weeping Bottlebrush,Myrtaceae,NATIVE,Evergreen,CAVI,Native Hardwoods
+3,Lophostemon confertus,Lophostemon confertus,Brush Box,Myrtaceae,NATIVE,Evergreen,LOCO9,Native Hardwoods
+4,Tristaniopsis laurina,Tristaniopsis laurina,Water Gum,Myrtaceae,NATIVE,Evergreen,TRLA,Native Hardwoods
+5,Melaleuca quinquenervia,Melaleuca quinquenervia,Broad leafed Paperbark,Myrtaceae,NATIVE,Evergreen,MEQU,Native Hardwoods
+6,A,A,N/A,0,0,0,N/A,-
+7,A,Acacia baileyana,Cootramundra Wattle,Fabaceae,NATIVE,Evergreen,ACBA2,Native Hardwoods
+8,A,Acacia binervata,Two-veined Hickory,Fabaceae,NATIVE,Evergreen,ACBI1,Native Hardwoods
+9,A,Acacia binervia,Myall wattle,Fabaceae,NATIVE,Evergreen,ACBI,Native Hardwoods
+10,A,Acacia decurrens,Early Green Wattle,Fabaceae,NATIVE,Evergreen,ACDE,Native Hardwoods
+11,A,Acacia elata,Cedar Wattle,Fabaceae,NATIVE,Evergreen,ACEL,Native Hardwoods
+12,A,Acacia fimbriata,Fringed Wattle,Fabaceae,NATIVE,Evergreen,ACFI,Native Hardwoods
+13,A,Acacia floribunda,White Sallow Wattle,Fabaceae,NATIVE,Evergreen,ACFL,Native Hardwoods
+14,A,Acacia linifolia,White Wattle,Fabaceae,NATIVE,Evergreen,ACLI,Native Hardwoods
+15,A,Acacia longifolia var longifolia,Golden Wattle,Fabaceae,NATIVE,Evergreen,ACLO,Native Hardwoods
+16,A,Acacia longissima,Long-leaf Wattle,Fabaceae,NATIVE,Evergreen,-,Native Hardwoods
+17,A,Acacia melanoxylon,Black Wattle,Mimosoideae,NATIVE,Evergreen,ACME,Native Hardwoods
+18,A,Acacia parramattensis,Parramatta Wattle,Fabaceae,NATIVE,Evergreen,ACPA81,Native Hardwoods
+19,A,Acacia podalyriifolia,Queensland Silver Wattle,Fabaceae,NATIVE,Evergreen,ACPO2,Native Hardwoods
+20,A,Acacia sp. (Exotic & Deciduous),Wattle,Fabaceae,EXOTIC,Deciduous,-,Exotic Hardwoods
+21,A,Acacia sp. (Exotic & Evergreen),Wattle,Fabaceae,EXOTIC,Evergreen,-,Exotic Hardwoods
+22,A,Acacia sp. (Native & Deciduous),Wattle,Fabaceae,NATIVE,Deciduous,-,Native Hardwoods
+23,A,Acacia sp. (Native & Evergreen),Wattle,Fabaceae,NATIVE,Evergreen,-,Native Hardwoods
+24,A,Acer buergerianum,Trident Maple,Aceraceae,EXOTIC,Deciduous,ACBU,Exotic Hardwoods
+25,A,Acer negundo,Box Elder,Sapindaceae,EXOTIC,Deciduous,ACNE,Exotic Hardwoods
+26,A,Acer negundo 'Variegatum',Variegated Box Elder,Sapindaceae,EXOTIC,Deciduous,ACNEN,Exotic Hardwoods
+27,A,Acer palmatum,Japanese maple,Sapindaceae,EXOTIC,Deciduous,ACPA,Exotic Hardwoods
+28,A,Acer rubrum,Red maple,Sapindaceae,EXOTIC,Deciduous,ACRU,Exotic Hardwoods
+29,A,Acer saccharinum,Sugar Maple,Sapindaceae,EXOTIC,Deciduous,ACSA1,Exotic Hardwoods
+30,A,Acer sp.,Maple,Sapindaceae,EXOTIC,Deciduous,-,Exotic Hardwoods
+31,A,Acer x freemanii,Autumn Blaze Maple,Sapindaceae,EXOTIC,Deciduous,ACFR,Exotic Hardwoods
+32,A,Acmena smithii,Lilly Pilly,Myrtaceae,NATIVE,Deciduous,EUSM,Native Hardwoods
+33,A,Acmena smithii var. Minor,Dwarf Lilly Pilly,Myrtaceae,NATIVE,Evergreen,EUSM,Native Hardwoods
+34,A,Agathis robusta,Queensland Kauri,Araucariaceae,NATIVE,Evergreen,AGRO,Conifer
+35,A,Agonis flexuosa,Willow Myrtle,Myrtaceae,NATIVE,Evergreen,AGFL,Native Hardwoods
+36,A,Ailanthus altissima,Tree of Heaven,Simaroubaceae,EXOTIC,Deciduous,AIAL,Exotic Hardwoods
+37,A,Albizia julibrissin,Persian Silk Tree,Mimosoideae,EXOTIC,Deciduous,ALJU,Exotic Hardwoods
+38,A,Allocasuarina littoralis,Black She-oak,Casuarinaceae,NATIVE,Evergreen,ALLI,Native Hardwoods
+39,A,Allocasuarina torulosa,Forest Oak,Casuarinaceae,NATIVE,Evergreen,ALTO,Native Hardwoods
+40,A,Alnus jorullensis,Evergreen Alder,Betulaceae,EXOTIC,Evergreen,ALIO,Exotic Hardwoods
+41,A,Angophora bakeri,Narrow-leaved Apple,Myrtaceae,NATIVE,Evergreen,ANBA,Native Hardwoods
+42,A,Angophora costata,Sydney Red Gum,Myrtaceae,NATIVE,Evergreen,ANCO,Native Hardwoods
+43,A,Angophora floribunda,Rough -barked apple,Myrtaceae,NATIVE,Evergreen,ANFL,Native Hardwoods
+44,A,Angophora hispida,Dwarf Apple,Myrtaceae,NATIVE,Evergreen,ANHI,Native Hardwoods
+45,A,Angophora subvelutina,Broad-leaved Apple,Myrtaceae,NATIVE,Evergreen,-,Native Hardwoods
+46,A,Araucaria araucana,Monkey Puzzle Tree,Araucariaceae,EXOTIC,Evergreen,ARAR,Conifer
+47,A,Araucaria bidwillii,Bunya Pine,Araucariaceae,NATIVE,Evergreen,ARBI,Conifer
+48,A,Araucaria columnaris,Cook pine,Araucariaceae,NATIVE,Evergreen,ARCO,Conifer
+49,A,Araucaria cunninghamii,Hoop Pine,Araucariaceae,NATIVE,Evergreen,ARCU1,Conifer
+50,A,Araucaria heterophylla,Norfolk Island Pine,Araucariaceae,NATIVE,Evergreen,ARHE,Conifer
+51,A,Arbutus andrachnoides,Grecian Strawberry Tree,Ericaceae,EXOTIC,Evergreen,ARX,Exotic Hardwoods
+52,A,Arbutus unedo,Irish Strawberry Tree,Ericaceae,EXOTIC,Evergreen,ARUN,Exotic Hardwoods
+53,A,Archontophoenix alexandrae,Alexandra Palm,Arecaceae,NATIVE,Evergreen,ARAL,Palms
+54,A,Archontophoenix cunninghamiana,Bangalow Palm,Arecaceae,NATIVE,Evergreen,ARCU,Palms
+55,B,B,N/A,0,0,0,N/A,-
+56,B,Backhousia citriodora,Lemon Scented Myrtle,Myrtaceae,NATIVE,Evergreen,BACI,Native Hardwoods
+57,B,Backhousia myrtifolia,Grey Myrtle,Myrtaceae,NATIVE,Evergreen,BAMY,Native Hardwoods
+58,B,Banksia integrifolia,Coastal banksia,Proteaceae,NATIVE,Evergreen,BAIN,Native Hardwoods
+59,B,Banksia serrata,Old Man Banksia,Proteaceae,NATIVE,Evergreen,BASE1,Native Hardwoods
+60,B,Banksia sp.,Banksia,Proteaceae,NATIVE,Evergreen,-,Native Hardwoods
+61,B,Bauhinia galpinii,Orchid Tree,Fabaceae,EXOTIC,Evergreen,BAGA,Exotic Hardwoods
+62,B,Bauhinia x blakeana,Hong Kong orchid tree,Fabaceae,EXOTIC,Evergreen,-,Exotic Hardwoods
+63,B,Betula nigra,Black Birch,Betulaceae,EXOTIC,Deciduous,BENI,Exotic Hardwoods
+64,B,Betula pendula,Silver Birch,Betulaceae,EXOTIC,Deciduous,BEPE,Exotic Hardwoods
+65,B,Brachychiton acerifolius,Illawarra Flame,Malvaceae,NATIVE,Deciduous,BRAC2,Native Hardwoods
+66,B,Brachychiton discolor,Lacebark Tree,Malvaceae,NATIVE,Deciduous,BRDI,Native Hardwoods
+67,B,Brachychiton populneus,Kurrajong,Malvaceae,NATIVE,Evergreen,BRPO,Native Hardwoods
+68,B,Brachychiton rupestris,Bottle Tree,Malvaceae,NATIVE,Deciduous,BRRU,Native Hardwoods
+69,B,Buckinghamia celsissima,Ivory Curl Flower,Proteaceae,NATIVE,Evergreen,BUCE,Native Hardwoods
+70,B,Butia capitata,Jelly Palm,Arecaceae,EXOTIC,Evergreen,BUCA,Palms
+71,C,C,N/A,0,0,0,N/A,-
+72,C,Caesalpina ferrera,Leopard Tree,Fabaceae,EXOTIC,Deciduous,CAFE,Exotic Hardwoods
+73,C,Callicoma serratifolia,Black Wattle,Cunoniaceae,NATIVE,Evergreen,CASE,Native Hardwoods
+74,C,Callistemon citrinus,Crimson bottlebrush,Myrtaceae,NATIVE,Evergreen,CACI,Native Hardwoods
+75,C,Callistemon linearis,Narrow-leaved Bottlebrush,Myrtaceae,NATIVE,Evergreen,CALI1,Native Hardwoods
+76,C,Callistemon salignus,Willow Bottlebrush,Myrtaceae,NATIVE,Evergreen,CASA5,Native Hardwoods
+77,C,Callistemon sp.,Bottle Brush,Myrtaceae,NATIVE,Evergreen,-,Native Hardwoods
+78,C,Callitris columellaris,White Cypress,Cupressaceae,NATIVE,Evergreen,CACO1,Native Hardwoods
+79,C,Callitris rhomboidea,Oyster Bay Pine,Cupressaceae,NATIVE,Evergreen,CARH1,Native Hardwoods
+80,C,Calodendron capense,Cape Chestnut,Rutaceae,EXOTIC,Evergreen,CACA3,Exotic Hardwoods
+81,C,Camellia japonica,Japanese Camellia,Theaceae,EXOTIC,Evergreen,CAJA9,Exotic Hardwoods
+82,C,Camellia reticulata,Yunnan Camellia,Theaceae,EXOTIC,Evergreen,CARE,Exotic Hardwoods
+83,C,Camellia sasanqua,Sasanqua Camellia,Theaceae,EXOTIC,Evergreen,CASA,Exotic Hardwoods
+84,C,Carya illinoiensis,Pecan,Juglandaceae,EXOTIC,Deciduous,CAIL,Exotic Hardwoods
+85,C,Cassia sp.,Cassia sp.,Fabaceae,NATIVE,Evergreen,-,Native Hardwoods
+86,C,Castanea sativa,Chestnut,Fagaceae,EXOTIC,Deciduous,CASA2,Exotic Hardwoods
+87,C,Castanospermum australe,Black Bean,Fabaceae,NATIVE,Evergreen,CAAU,Native Hardwoods
+88,C,Casuarina cunninghamiana,River She-oak,Casuarinaceae,NATIVE,Evergreen,CACU,Native Hardwoods
+89,C,Casuarina glauca,Swamp She-oak,Casuarinaceae,NATIVE,Evergreen,CAGL11,Native Hardwoods
+90,C,Cedrus atlantica,Atlas Cedar,Pinaceae,EXOTIC,Evergreen,CEAT,Conifer
+91,C,Cedrus deodara,Himalayan Cedar,Pinaceae,EXOTIC,Evergreen,CEDE,Conifer
+92,C,Cedrus libani,Cedar Of Lebanon,Pinaceae,EXOTIC,Evergreen,CELI,Conifer
+93,C,Celtis australis,Mediterranean hackberry,Cannabaceae,EXOTIC,Deciduous,CEAU,Exotic Hardwoods
+94,C,Celtis sinense,Chinese hackberry,Cannabaceae,EXOTIC,Deciduous,CESI4,Exotic Hardwoods
+95,C,Ceratonia siliqua,Carob,Fabaceae,EXOTIC,Evergreen,CESI3,Exotic Hardwoods
+96,C,Ceratopetalum apetalum,Coachwood,Cunoniaceae,NATIVE,Evergreen,CEAP,Native Hardwoods
+97,C,Ceratopetalum gummiferum,NSW Christmas Bush,Cunoniaceae,NATIVE,Evergreen,CEGU,Native Hardwoods
+98,C,Cercis canadensis,Eastern Rosebud,Fabaceae,EXOTIC,Deciduous,CECA,Exotic Hardwoods
+99,C,Chamaecyparis obtusa 'Crippsii',Crips Golden Cypress,Cupressaceae,EXOTIC,Evergreen,CHOB,Conifer
+100,C,Cinnamomum camphora,Camphor laurel,Lauraceae,EXOTIC,Evergreen,CICA,Exotic Hardwoods
+101,C,Citharexylum spinosum,Florida fiddlewood,Verbenaceae,EXOTIC,Evergreen,CISP2,Exotic Hardwoods
+102,C,Citrus sp.,"Lemon, Orange Lime etc.",Rutaceae,EXOTIC,Evergreen,-,Exotic Hardwoods
+103,C,Corymbia citriodora,Lemon-scented Gum,Myrtaceae,NATIVE,Evergreen,COCI,Native Hardwoods
+104,C,Corymbia eximia,Yellow Bloodwood,Myrtaceae,NATIVE,Evergreen,COEX,Native Hardwoods
+105,C,Corymbia ficifolia (grafted stock),Dwarf Red Flowering Gum,Myrtaceae,NATIVE,Evergreen,EUFI81,Native Hardwoods
+106,C,Corymbia gummifera,Red Bloodwood,Myrtaceae,NATIVE,Evergreen,EUGU2,Native Hardwoods
+107,C,Corymbia maculata,Spotted Gum,Myrtaceae,NATIVE,Evergreen,COMA1,Native Hardwoods
+108,C,Corymbia torelliana,Cadaghi,Myrtaceae,NATIVE,Evergreen,COTO,Native Hardwoods
+109,C,Crataegus monogyna,Hawthorn,Rosaceae,EXOTIC,Deciduous,CROX,Exotic Hardwoods
+110,C,Cupaniopsis anacardioides,Tuckeroo,Sapindaceae,NATIVE,Evergreen,CUAN,Native Hardwoods
+111,C,Cupressus macrocarpa,Monterey Cypress,Cupressaceae,EXOTIC,Evergreen,CUMA,Conifer
+112,C,Cupressus sempervirens,Italian Cypress,Cupressaceae,EXOTIC,Evergreen,CUSE,Conifer
+113,C,Cupressus sp,Cypress Pine,Cupressaceae,EXOTIC,Evergreen,-,Conifer
+114,C,Cupressus torulosa,Himalayan Cypress,Cupressaceae,EXOTIC,Evergreen,CUTO,Exotic Hardwoods
+115,C,Cycas sp.,Cycad,Cycadaceae,NATIVE,Evergreen,-,Palms
+116,D,D,N/A,0,0,0,N/A,-
+117,D,Dracaena sp.,Dracaena,Asparagaceae,EXOTIC,Evergreen,-,Palms
+118,D,Dypsis lutescens,Golden Cane Palm,Arecaceae,EXOTIC,Evergreen,CHLU,Palms
+119,E,E,N/A,0,0,0,N/A,-
+120,E,Eleaocarpus eumundi,Eumundi Quandong,Elaeocarpaceae,NATIVE,Evergreen,ELEU,Native Hardwoods
+121,E,Eleaocarpus reticulatus,Blueberry Ash,Elaeocarpaceae,NATIVE,Evergreen,ELRE,Native Hardwoods
+122,E,Eriobotrya japonica,Loquat,Rosaceae,EXOTIC,Evergreen,ERJA,Exotic Hardwoods
+123,E,Erythrina crista-galli,Cockspur Coral Tree,Fabaceae,EXOTIC,Deciduous,ERCR,Exotic Hardwoods
+124,E,Erythrina x sykessi,Coral Tree,Fabaceae,EXOTIC,Deciduous,ERX,Exotic Hardwoods
+125,E,Eucalyptus acmenoides,White Mahogany,Myrtaceae,NATIVE,Evergreen,EUAC1,Native Hardwoods
+126,E,Eucalyptus amplifolia,Cabbage gum,Myrtaceae,NATIVE,Evergreen,EUAM,Native Hardwoods
+127,E,Eucalyptus baueriana,Blue Box,Myrtaceae,NATIVE,Evergreen,EUBA5,Native Hardwoods
+128,E,Eucalyptus beyeriana,Beyer's Ironbark,Myrtaceae,NATIVE,Evergreen,EUBE1,Native Hardwoods
+129,E,Eucalyptus bosistoana,Coast Grey Box,Myrtaceae,NATIVE,Evergreen,EUBO1,Native Hardwoods
+130,E,Eucalyptus botryoides,Southern Mahogany,Myrtaceae,NATIVE,Evergreen,EUBO,Native Hardwoods
+131,E,Eucalyptus camaldulensis,River Red Gum,Myrtaceae,NATIVE,Evergreen,EUCA1,Native Hardwoods
+132,E,Eucalyptus cinerea,Argyle Apple,Myrtaceae,NATIVE,Evergreen,EUCI,Native Hardwoods
+133,E,Eucalyptus cladocalyx,Sugar gum,Myrtaceae,NATIVE,Evergreen,EUCL,Native Hardwoods
+134,E,Eucalyptus consideniana,Yertchuk,Myrtaceae,NATIVE,Evergreen,EUCO6,Native Hardwoods
+135,E,Eucalyptus crebra,Narrow leaved Ironbark,Myrtaceae,NATIVE,Evergreen,EUCR,Native Hardwoods
+136,E,Eucalyptus deanei,Dean's White Gum,Myrtaceae,NATIVE,Evergreen,EUDE2,Native Hardwoods
+137,E,Eucalyptus elata,River peppermint,Myrtaceae,NATIVE,Evergreen,EUEL,Native Hardwoods
+138,E,Eucalyptus eugenioides,Thin-leaved stringy bark,Myrtaceae,NATIVE,Evergreen,EUEU1,Native Hardwoods
+139,E,Eucalyptus fibrosa,Broad-leaved ironbark,Myrtaceae,NATIVE,Evergreen,EUFI,Native Hardwoods
+140,E,Eucalyptus ficifolia (grafted stock),Dwarf Red Flowering Gum,Myrtaceae,NATIVE,Evergreen,EUFI81,Native Hardwoods
+141,E,Eucalyptus globoidea,White stringbark,Myrtaceae,NATIVE,Evergreen,EUGL2,Native Hardwoods
+142,E,Eucalyptus globulus subsp. Bicostata,Southern Blue Gum,Myrtaceae,NATIVE,Evergreen,EUGOBI,Native Hardwoods
+143,E,Eucalyptus globulus subsp. Globulus,Tasmanian blue gum,Myrtaceae,NATIVE,Evergreen,EUGL,Native Hardwoods
+144,E,Eucalyptus globulus subsp. Maidenii,Maiden's gum,Myrtaceae,NATIVE,Evergreen,EUGOMA,Native Hardwoods
+145,E,Eucalyptus grandis,Flooded Gum,Myrtaceae,NATIVE,Evergreen,EUGR,Native Hardwoods
+146,E,Eucalyptus haemastoma,Scribbly gum,Myrtaceae,NATIVE,Evergreen,EUHA,Native Hardwoods
+147,E,Eucalyptus leucoxylon,White Ironbark,Myrtaceae,NATIVE,Evergreen,EULE,Native Hardwoods
+148,E,Eucalyptus leucoxylon ssp. megalocarpa,Large-fruited Yellow Gum,Myrtaceae,NATIVE,Evergreen,EULEME,Native Hardwoods
+149,E,Eucalyptus longifolia,Woollybutt,Myrtaceae,NATIVE,Evergreen,EULO,Native Hardwoods
+150,E,Eucalyptus mannifera,Brittle Gum,Myrtaceae,NATIVE,Evergreen,EUMA7,Native Hardwoods
+151,E,Eucalyptus melliodora,Yellow Box,Myrtaceae,NATIVE,Evergreen,EUME,Native Hardwoods
+152,E,Eucalyptus microcorys,Tallowood,Myrtaceae,NATIVE,Evergreen,EUMI,Native Hardwoods
+153,E,Eucalyptus moluccana,Grey box,Myrtaceae,NATIVE,Evergreen,EUMO1,Native Hardwoods
+154,E,Eucalyptus muelleriana,Yellow Stringybark,Myrtaceae,NATIVE,Evergreen,EUMU2,Native Hardwoods
+155,E,Eucalyptus nicholii,Willow peppermint,Myrtaceae,NATIVE,Evergreen,EUNI,Native Hardwoods
+156,E,Eucalyptus paniculata,Grey Ironbark,Myrtaceae,NATIVE,Evergreen,EUPA,Native Hardwoods
+157,E,Eucalyptus parramattensis,Parramatta Red Gum,Myrtaceae,NATIVE,Evergreen,EUPA1,Native Hardwoods
+158,E,Eucalyptus pilularis,Blackbutt,Myrtaceae,NATIVE,Evergreen,EUPI,Native Hardwoods
+159,E,Eucalyptus piperita,Sydney peppermint,Myrtaceae,NATIVE,Evergreen,EUPI2,Native Hardwoods
+160,E,Eucalyptus prava,Orange Gum,Myrtaceae,NATIVE,Evergreen,-,Native Hardwoods
+161,E,Eucalyptus punctata,Gray gum,Myrtaceae,NATIVE,Evergreen,EUPU1,Native Hardwoods
+162,E,Eucalyptus racemosa,Scribbly Gum,Myrtaceae,NATIVE,Evergreen,EURARA1,Native Hardwoods
+163,E,Eucalyptus radiata,Narrow-leaved peppermint,Myrtaceae,NATIVE,Evergreen,EURA,Native Hardwoods
+164,E,Eucalyptus resinifera,Red mahogany,Myrtaceae,NATIVE,Evergreen,EURE2,Native Hardwoods
+165,E,Eucalyptus robusta,Swamp mahogany,Myrtaceae,NATIVE,Evergreen,EURO,Native Hardwoods
+166,E,Eucalyptus saligna,Blue gum,Myrtaceae,NATIVE,Evergreen,EUSA,Native Hardwoods
+167,E,Eucalyptus saligna x botryoides,Eucalyptus saligna x botryoides Intergrades,Myrtaceae,NATIVE,Evergreen,EUSABO,Native Hardwoods
+168,E,Eucalyptus scoparia,Willow gum,Myrtaceae,NATIVE,Evergreen,EUSC,Native Hardwoods
+169,E,Eucalyptus siderophloia,Grey Ironbark,Myrtaceae,NATIVE,Evergreen,EUSI3,Native Hardwoods
+170,E,Eucalyptus sideroxylon,Red Ironbark (Mugga),Myrtaceae,NATIVE,Evergreen,EUSI,Native Hardwoods
+171,E,Eucalyptus sieberi,Silver Top Ash,Myrtaceae,NATIVE,Evergreen,EUSI1,Native Hardwoods
+172,E,Eucalyptus sp.,Gum Tree,Myrtaceae,NATIVE,Evergreen,-,Native Hardwoods
+173,E,Eucalyptus squamosa,Scaly Bark,Myrtaceae,NATIVE,Evergreen,EUSQ,Native Hardwoods
+174,E,Eucalyptus tereticornis,Forest redgum,Myrtaceae,NATIVE,Evergreen,EUTE,Native Hardwoods
+175,E,Eucalyptus umbra,Broad-leaved White Mahogany,Myrtaceae,NATIVE,Evergreen,EUUM,Native Hardwoods
+176,E,Eucalyptus viminalis,Ribbon Gum,Myrtaceae,NATIVE,Evergreen,EUVI,Native Hardwoods
+177,F,F,N/A,0,0,0,N/A,-
+178,F,Fagus sylvatica,Common Beech,Fagaceae,EXOTIC,Deciduous,FASY,Exotic Hardwoods
+179,F,Fagus sylvatica 'Purpurea',European Beech,Fagaceae,EXOTIC,Deciduous,FASY,Exotic Hardwoods
+180,F,Ficus benjamina,Benjamin Fig,Moraceae,EXOTIC,Evergreen,FIBE,Exotic Hardwoods
+181,F,Ficus carica,Common Fig,Moraceae,EXOTIC,Deciduous,FICA,Exotic Hardwoods
+182,F,Ficus elastica,India Rubber Tree,Moraceae,EXOTIC,Evergreen,FIEL,Exotic Hardwoods
+183,F,Ficus macrophylla,Moreton bay fig,Moraceae,NATIVE,Evergreen,FIMA1,Native Hardwoods
+184,F,Ficus microcarpa var 'hillii',Hill's Weeping Fig,Moraceae,NATIVE,Evergreen,FIMIHI,Native Hardwoods
+185,F,Ficus obliqua,Small-leaved Fig,Moraceae,NATIVE,Evergreen,FIOB1,Native Hardwoods
+186,F,Ficus rubiginosa,Port Jackson Fig,Moraceae,NATIVE,Evergreen,FIRU,Native Hardwoods
+187,F,Ficus sp. (Exotic & Deciduous),Fig,Moraceae,EXOTIC,Deciduous,-,Exotic Hardwoods
+188,F,Ficus sp. (Exotic & Evergreen),Fig,Moraceae,NATIVE,Evergreen,-,Exotic Hardwoods
+189,F,Ficus sp. (Native & Deciduous),Fig,Moraceae,NATIVE,Deciduous,-,Native Hardwoods
+190,F,Ficus sp. (Native & Evergreen),Fig,Moraceae,NATIVE,Evergreen,-,Native Hardwoods
+191,F,Ficus superba var. henneana,Deciduous Fig,Moraceae,NATIVE,Evergreen,FISU,Native Hardwoods
+192,F,Flindersia australis,Australian teak,Rutaceae,NATIVE,Evergreen,FLAU,Native Hardwoods
+193,F,Fraxinus 'Griffithii',Evergreen Ash,Oleaceae,EXOTIC,Evergreen,FRGR1,Exotic Hardwoods
+194,F,Fraxinus 'Raywood',Claret Ash,Oleaceae,EXOTIC,Deciduous,FRAN2,Exotic Hardwoods
+195,F,Fraxinus excelsior,European Ash,Oleaceae,EXOTIC,Deciduous,FREX,Exotic Hardwoods
+196,F,Fraxinus pennsylvanica 'Urbanite',Urbanite,Oleaceae,EXOTIC,Deciduous,FRPE,Exotic Hardwoods
+197,F,Fraxinus sp. (Decidious),Fraxinus sp. (Decidious),Oleaceae,EXOTIC,Deciduous,-,Exotic Hardwoods
+198,F,Fraxinus sp. (Evergreen),Fraxinus sp. (Evergreen),Oleaceae,EXOTIC,Evergreen,-,Exotic Hardwoods
+199,G,G,N/A,0,0,0,N/A,-
+200,G,Geijera parviflora,Wilga,Rutaceae,NATIVE,Evergreen,GEPA,Native Hardwoods
+201,G,Gingko biloba,Maidenhair Tree,Ginkgoaceae,EXOTIC,Deciduous,GIBI,Conifer
+202,G,Gleditsia tricanthos,Honey Locust,Fabaceae,EXOTIC,Deciduous,GLTR,Exotic Hardwoods
+203,G,Gleditsia tricanthos 'Sunburst',Honey Locust,Fabaceae,EXOTIC,Deciduous,GLTR,Exotic Hardwoods
+204,G,Glochidion ferdinandi,Cheese tree,Phyllanthaceae,NATIVE,Evergreen,GLFE,Native Hardwoods
+205,G,Gordonia axillaris,Fried Egg Plant,Theaceae,EXOTIC,Evergreen,GOAX,Exotic Hardwoods
+206,G,Grevillea robusta,Silky Oak,Proteaceae,NATIVE,Evergreen,GRRO,Native Hardwoods
+207,G,Grevillea sp.,Grevillea,Proteaceae,NATIVE,Evergreen,-,Native Hardwoods
+208,H,H,N/A,0,0,0,N/A,-
+209,H,Hakea dactyloides,Finger Hakea,Proteaceae,NATIVE,Evergreen,HADA,Native Hardwoods
+210,H,Hakea sp.,Hakea sp.,Proteaceae,NATIVE,Evergreen,-,Native Hardwoods
+211,H,Harpephyllum caffrum,Kaffir Plum,Anacardiaceae,EXOTIC,Evergreen,HACA1,Exotic Hardwoods
+212,H,Harpullia pendula,Tulipwood,Sapindaceae,NATIVE,Evergreen,HAPE1,Native Hardwoods
+213,H,Hibiscus rosa-sinensis,Hawaiian Hibiscus,Malvoideae,EXOTIC,Evergreen,HIROSI,Exotic Hardwoods
+214,H,Hibiscus tileaceus 'Rubra',Beach Hibiscus,Malvaceae,NATIVE,Evergreen,-,Native Hardwoods
+215,H,Howea forsteriana,Kentia Palm,Arecaceae,NATIVE,Evergreen,HOFO,Palms
+216,H,Hymenosporum flavum,Native Frangipani,Pittosporaceae,NATIVE,Evergreen,HYFL,Native Hardwoods
+217,J,J,N/A,0,0,0,N/A,-
+218,J,Jacaranda mimosifolia,Jacaranda,Bignoniaceae,EXOTIC,Deciduous,JAMI,Exotic Hardwoods
+219,K,K,N/A,0,0,0,N/A,-
+220,K,Koelreuteria bipinnata,Pride of china,Sapindaceae,EXOTIC,Deciduous,KOBI,Exotic Hardwoods
+221,K,Koelreuteria paniculata,Golden Rain Tree,Sapindaceae,EXOTIC,Deciduous,KOPA,Exotic Hardwoods
+222,L,L,N/A,0,0,0,N/A,-
+223,L,Lagerstroemia indica cv.,Crepe myrtle,Lythraceae,EXOTIC,Deciduous,LAIN,Exotic Hardwoods
+224,L,Lagunaria patersonii,Norfolk Island hibiscus,Bombacoideae,NATIVE,Evergreen,LAPA,Native Hardwoods
+225,L,Laurus nobilis,Bay Tree,Lauraceae,EXOTIC,Evergreen,LANO,Exotic Hardwoods
+226,L,Leptospermum laevigatum,Australian Tea Tree,Myrtaceae,NATIVE,Evergreen,LELA1,Native Hardwoods
+227,L,Leptospermum petersonii,Lemon scented tea tree,Myrtaceae,NATIVE,Evergreen,LEPE,Native Hardwoods
+228,L,Ligustrum lucidum,Large Leaved Privet,Oleaceae,EXOTIC,Evergreen,LILU,Exotic Hardwoods
+229,L,Ligustrum sinense,Small Leaved Privet,Oleaceae,EXOTIC,Evergreen,LISI,Exotic Hardwoods
+230,L,Liquidambar styraciflua,Liquidambar,Altingiaceae,EXOTIC,Deciduous,LIST,Exotic Hardwoods
+231,L,Liriodendron tulipifera,Tulip tree,Magnoliaceae,EXOTIC,Deciduous,LITU,Exotic Hardwoods
+232,L,Liriodendron tulipifera 'Fastigata',Fastigiate Tulip Tree,Magnoliaceae,EXOTIC,Deciduous,LITU,Exotic Hardwoods
+233,L,Livistona australis,Cabbage Tree Palm,Arecaceae,NATIVE,Evergreen,LIAU,Palms
+234,L,Livistona chinensis,Chinese Fan Palm,Arecaceae,EXOTIC,Evergreen,LICH,Palms
+235,M,M,N/A,0,0,0,N/A,-
+236,M,Macadamia integrifolia,Macadamia,Proteaceae,NATIVE,Evergreen,MAIN8,Native Hardwoods
+237,M,Macadamia tetraphylla,Macadamia,Proteaceae,NATIVE,Evergreen,MATE,Native Hardwoods
+238,M,Macrozamia communis,Burrawang,Zamiaceae,NATIVE,Evergreen,MACO1,Palms
+239,M,Magnolia grandiflora,Magnolia,Magnoliaceae,EXOTIC,Evergreen,MAGR,Exotic Hardwoods
+240,M,Magnolia grandiflora 'Exmouth',Bull Bay Magnolia,Magnoliaceae,EXOTIC,Evergreen,MAGR,Exotic Hardwoods
+241,M,Magnolia grandiflora 'Little Gem',Dwarf Magnolia,Magnoliaceae,EXOTIC,Evergreen,MAGR,Exotic Hardwoods
+242,M,Magnolia x soulangeana,Magnolia,Magnoliaceae,EXOTIC,Deciduous,MASO,Exotic Hardwoods
+243,M,Malus sp.,Apple,Rosaceae,EXOTIC,Deciduous,-,Exotic Hardwoods
+244,M,Mangifera indica,Mango,Anacardiaceae,EXOTIC,Evergreen,MAIN,Exotic Hardwoods
+245,M,Melaleuca armillaris,Bracelet honey myrtle,Myrtaceae,NATIVE,Evergreen,MEAR,Native Hardwoods
+246,M,Melaleuca bracteata,Black Tea-tree,Myrtaceae,NATIVE,Evergreen,MEBR,Native Hardwoods
+247,M,Melaleuca decora,White feather honey myrtle,Myrtaceae,NATIVE,Evergreen,MEDE1,Native Hardwoods
+248,M,Melaleuca decussata,Cross-leaf Honey-myrtle,Myrtaceae,NATIVE,Evergreen,MEDE,Native Hardwoods
+249,M,Melaleuca linariifolia,Narrow leaf paperbark,Myrtaceae,NATIVE,Evergreen,MELI7,Native Hardwoods
+250,M,Melaleuca nesophila,Showy Honey-myrtle,Myrtaceae,NATIVE,Evergreen,MENE,Native Hardwoods
+251,M,Melaleuca sp.,Paperbark,Myrtaceae,NATIVE,Evergreen,-,Native Hardwoods
+252,M,Melaleuca styphelioides,Prickley- leafed paperbark,Myrtaceae,NATIVE,Evergreen,MEST,Native Hardwoods
+253,M,Melia azadarach,White cedar,Meliaceae,NATIVE,Deciduous,MEAZ,Native Hardwoods
+254,M,Metrosideros excelsa,New Zealand Christmas Tree,Myrtaceae,EXOTIC,Evergreen,MEEX,Exotic Hardwoods
+255,M,Metrosideros thomasii,New Zealand Christmas Bush,Myrtaceae,EXOTIC,Evergreen,MEEX,Exotic Hardwoods
+256,M,Michelia figo,Port Wine Magnolia,Magnoliaceae,EXOTIC,Evergreen,MIFI,Exotic Hardwoods
+257,M,Morus nigra,Mulberry,Moraceae,EXOTIC,Deciduous,MONI,Exotic Hardwoods
+258,M,Murraya paniculata,Orange Jessamine,Rutaceae,EXOTIC,Evergreen,MUPA1,Exotic Hardwoods
+259,N,N,N/A,0,0,0,N/A,-
+260,N,Nerium oleander,Oleander,Apocynoideae,EXOTIC,Evergreen,NEOL,Exotic Hardwoods
+261,N,Nyssa sylvatica,Tupelo,Nyssaceae,EXOTIC,Deciduous,NYSY,Exotic Hardwoods
+262,O,O,N/A,0,0,0,N/A,-
+263,O,Olea africana,African Olive,Oleaceae,EXOTIC,Evergreen,OLEUAF,Exotic Hardwoods
+264,O,Olea europaea,European Olive,Oleaceae,EXOTIC,Evergreen,OLEU,Exotic Hardwoods
+265,O,Other species (Exotic & Deciduous),Other species (Exotic & Deciduous),N/A,EXOTIC,Deciduous,-,-
+266,O,Other species (Exotic & Evergreen),Other species (Exotic & Evergreen),N/A,EXOTIC,Evergreen,-,-
+267,O,Other species (Native & Deciduous),Other species (Native & Deciduous),N/A,NATIVE,Deciduous,-,-
+268,O,Other species (Native & Evergreen),Other species (Native & Evergreen),N/A,NATIVE,Evergreen,-,-
+269,P,P,N/A,0,0,0,N/A,-
+270,P,Palm sp. (Exotic),Palm sp. (Exotic),Arecaceae,EXOTIC,Evergreen,-,Palms
+271,P,Palm sp. (Native),Palm sp. (Native),Arecaceae,NATIVE,Evergreen,-,Palms
+272,P,Persea americana,Avocado,Lauraceae,EXOTIC,Evergreen,PEAM,Exotic Hardwoods
+273,P,Phoenix canariensis,Canary Island Date Palm,Arecaceae,EXOTIC,Evergreen,PHCA,Palms
+274,P,Phoenix dactylifera,Date Palm,Arecaceae,EXOTIC,Evergreen,PHDA4,Palms
+275,P,Phoenix roebelenii,Pygmy Date Palm,Arecaceae,EXOTIC,Evergreen,PHRO,Palms
+276,P,Photinia glabra 'Rubens',Small Leaved Photinia,Rosaceae,EXOTIC,Evergreen,PHGL,Exotic Hardwoods
+277,P,Photinia robusta,Christmas Berry,Amygdaloideae,EXOTIC,Evergreen,PHFR,Exotic Hardwoods
+278,P,Photinia serratifolia,Taiwanese Photinia,Rosaceae,EXOTIC,Evergreen,PHSE,Exotic Hardwoods
+279,P,Photinia serrulata,Christmas Berry,Rosaceae,EXOTIC,Evergreen,PHSE1,Exotic Hardwoods
+280,P,Photinia x fraseri 'Robusta',Christmas Berry,Rosaceae,EXOTIC,Evergreen,PHFR,Exotic Hardwoods
+281,P,Pinus halepensis,Aleppo pine,Pinaceae,EXOTIC,Evergreen,PIHA,Conifer
+282,P,Pinus patula,Mexican Weeping Pine,Pinaceae,EXOTIC,Evergreen,PIPA4,Conifer
+283,P,Pinus pinea,Italian Stone Pine,Pinaceae,EXOTIC,Evergreen,PIPI2,Conifer
+284,P,Pinus radiata,Monterey Pine,Pinaceae,EXOTIC,Evergreen,PIRA,Conifer
+285,P,Pinus sp.,Pine,Pinaceae,EXOTIC,Evergreen,-,Conifer
+286,P,Pistachia chinensis,Chinese Pistachio,Anacardiaceae,EXOTIC,Deciduous,PICH,Exotic Hardwoods
+287,P,Pittosporum eugenioides 'Variegatum',Lemonwood,Pittosporaceae,EXOTIC,Evergreen,PIEU,Exotic Hardwoods
+288,P,Pittosporum revolutum,Yellow pittosporum,Pittosporaceae,NATIVE,Evergreen,PIRE1,Native Hardwoods
+289,P,Pittosporum rhombifolium,Diamond Leaf Pittosporum,Pittosporaceae,NATIVE,Evergreen,PIRH,Native Hardwoods
+290,P,Pittosporum undulatum,Sweet Pittosporum,Pittosporaceae,NATIVE,Evergreen,PIUN,Native Hardwoods
+291,P,Platanus occidentalis,Sycamore,Platanaceae,EXOTIC,Deciduous,PLOC,Exotic Hardwoods
+292,P,Platanus orientalis,Oriental Plane,Platanaceae,EXOTIC,Deciduous,PLOR,Exotic Hardwoods
+293,P,Platanus orientalis var. Digitata,Cyprus Plane Tree,Platanaceae,EXOTIC,Deciduous,PLORDI,Exotic Hardwoods
+294,P,Platanus x acerifolia,London Plane Tree,Platanaceae,EXOTIC,Deciduous,PLAC,Exotic Hardwoods
+295,P,Platanus x hybrida,London Plane Tree,Platanaceae,EXOTIC,Deciduous,PLAC,Exotic Hardwoods
+296,P,Plumeria acutifolia,Frangipani,Apocynaceae,EXOTIC,deciduous,PLRU,Exotic Hardwoods
+297,P,Podocarpus elatus,Illawarra Plum,Podocarpaceae,NATIVE,Evergreen,POEL,Conifer
+298,P,Podocarpus falcatus,Plum-fruited Yew,Podocarpaceae,EXOTIC,Evergreen,AFFA,Exotic Hardwoods
+299,P,Populus alba,Silverleaf Poplar,Salicaceae,EXOTIC,Deciduous,POAL,Exotic Hardwoods
+300,P,Populus deltoides,Necklace Poplar,Salicaceae,EXOTIC,Deciduous,PODE,Exotic Hardwoods
+301,P,Populus nigra 'Italica',Lombardy Poplar,Salicaceae,EXOTIC,Deciduous,PONI,Exotic Hardwoods
+302,P,Populus simonii,Simon Poplar,Salicaceae,EXOTIC,Deciduous,POSI,Exotic Hardwoods
+303,P,Populus sp.,Popular,Salicaceae,EXOTIC,Deciduous,-,Exotic Hardwoods
+304,P,Populus yunnanensis,Chinese Poplar,Salicaceae,EXOTIC,Deciduous,POYU,Exotic Hardwoods
+305,P,Protea sp.,Sugarbush,Proteaceae,EXOTIC,Evergreen,-,exotic Hardwoods
+306,P,Prunus cerasifera 'Nigra',Black Plum,Rosaceae,EXOTIC,Deciduous,PRCE,Exotic Hardwoods
+307,P,Prunus sp.,Plum,Rosaceae,EXOTIC,Deciduous,-,Exotic Hardwoods
+308,P,Prunus x blireana cv,Flowering Plum,Rosaceae,EXOTIC,Deciduous,PRX,Exotic Hardwoods
+309,P,Psidium guajava,Common Guava,Myrtaceae,EXOTIC,Evergreen,PSGU,Exotic Hardwoods
+310,P,Pyrus calleryana,Callery Pear,Rosaceae,EXOTIC,Deciduous,PYCA,Exotic Hardwoods
+311,P,Pyrus calleryana 'Bradford',Callery Pear,Rosaceae,EXOTIC,Deciduous,PYCA,Exotic Hardwoods
+312,P,Pyrus calleryana 'Chanticleer',Callery Pear,Rosaceae,EXOTIC,Deciduous,PYCA,Exotic Hardwoods
+313,P,Pyrus sp.,Pear,Rosaceae,EXOTIC,Deciduous,-,Exotic Hardwoods
+314,P,Pyrus ussuriensis,Manchurian Pear,Rosaceae,EXOTIC,Deciduous,PYUS,Exotic Hardwoods
+315,Q,Q,N/A,0,0,0,N/A,-
+316,Q,Quercus palustris,Pin Oak,Fagaceae,EXOTIC,Deciduous,QUPA,Exotic Hardwoods
+317,Q,Quercus robur,English Oak,Fagaceae,EXOTIC,Deciduous,QURO,Exotic Hardwoods
+318,R,R,N/A,0,0,0,N/A,-
+319,R,Radermachera sinica,China Doll Tree,Bignoniaceae,EXOTIC,Deciduous,RASI,Exotic Hardwoods
+320,R,Rhapis sp.,Bamboo Palm,Arecaceae,EXOTIC,Evergreen,-,Palms
+321,R,Robinia pseudoacacia,False Acacia,Fabaceae,EXOTIC,Deciduous,ROPS,Exotic Hardwoods
+322,R,Robinia pseudoacacia 'Frisia',Golden Robinnia,Fabaceae,EXOTIC,Deciduous,ROPS,Exotic Hardwoods
+323,S,S,N/A,0,0,0,N/A,-
+324,S,Salix babylonica,Weeping Willow,Salicaceae,EXOTIC,Evergreen,SABA1,Exotic Hardwoods
+325,S,Sapium sebiferum,Chinese Tallowood,Euphorbiaceae,EXOTIC,Deciduous,TRSE6,Exotic Hardwoods
+326,S,Schefflera actinophylla,QLD Umbrella Tree,Araliaceae,NATIVE,Evergreen,BRAC,Native Hardwoods
+327,S,Schinus areira,Peppercorn,Anacardiaceae,EXOTIC,Evergreen,SCMO,Exotic Hardwoods
+328,S,Schinus molle,Peruvian Pepper,Anacardiaceae,EXOTIC,Evergreen,SCMO,Exotic Hardwoods
+329,S,Stenocarpus sinuatus,Queensland firewheel,Proteaceae,NATIVE,Evergreen,STSI,Native Hardwoods
+330,S,Syagrus romanzoffiana,Cocos Palm,Arecaceae,EXOTIC,Evergreen,SYRO,Palms
+331,S,Syncarpia glomulifera,Turpentine,Myrtaceae,NATIVE,Evergreen,SYGL,Native Hardwoods
+332,S,Syzygium australe,Creek Lilly Pilly,Myrtaceae,NATIVE,Evergreen,SYAU,Native Hardwoods
+333,S,Syzygium luehmannii,Small-leaved lilli pilli,Myrtaceae,NATIVE,Evergreen,SYLU,Native Hardwoods
+334,S,Syzygium oleosum,Blue Lilli Pilli,Myrtaceae,NATIVE,Evergreen,SYOL,Native Hardwoods
+335,S,Syzygium paniculatum,Magenta Lilly Pilly,Myrtaceae,NATIVE,Evergreen,SYPA1,Native Hardwoods
+336,S,Syzygium sp.,Lilly Pilly,Myrtaceae,NATIVE,Evergreen,-,Native Hardwoods
+337,T,T,N/A,0,0,0,N/A,-
+338,T,Taxodium distichum,Bald Cypress,Cupressaceae,EXOTIC,Evergreen,TADI,Conifer
+339,T,Thuja plicata,Pacific Red Cedar,Cupressaceae,EXOTIC,Evergreen,THPL,Conifer
+340,T,Tibouchina 'Alstonville',Alstonville Tibouchina,Melastomataceae,EXOTIC,Evergreen,TILE,Exotic Hardwoods
+341,T,Tibouchina granulosa,Purple Glory Bush,Melastomataceae,EXOTIC,Evergreen,TIGR3,Exotic Hardwoods
+342,T,Toona ciliata,Red Cedar,Meliaceae,NATIVE,Deciduous,TOCI,Native Hardwoods
+343,T,Trachycarpus fortunei,Chinese Windmill Palm,Arecaceae,EXOTIC,Evergreen,TRFO,Palms
+344,T,Tristaniopsis laurina 'Luscious',Water Gum,Myrtaceae,NATIVE,Evergreen,TRLA,Native Hardwoods
+345,U,U,N/A,0,0,0,N/A,-
+346,U,Ulmus glabra,Scots Elm,Ulmaceae,EXOTIC,Deciduous,ULGL,Exotic Hardwoods
+347,U,Ulmus glabra 'Lutescens',Golden Wych Elm,Ulmaceae,EXOTIC,Deciduous,ULJA,Exotic Hardwoods
+348,U,Ulmus parvifolia,Chinese Elm,Ulmaceae,EXOTIC,Deciduous,ULPA,Exotic Hardwoods
+349,U,Ulmus parvifolia 'Todd',Chinese Elm,Ulmaceae,EXOTIC,Deciduous,ULPA,Exotic Hardwoods
+350,U,Ulmus procera,English Elm,Ulmaceae,EXOTIC,Deciduous,ULPR,Exotic Hardwoods
+351,U,Unident / deciduous / Exotic,Unident / deciduous / Exotic,N/A,EXOTIC,Deciduous,-,-
+352,U,Unident / deciduous / Native,Unident / deciduous / Native,N/A,NATIVE,Deciduous,-,-
+353,U,Unident / evergreen / Exotic,Unident / evergreen / Exotic,N/A,EXOTIC,Evergreen,-,-
+354,U,Unident / evergreen / Native,Unident / evergreen / Native,N/A,NATIVE,Evergreen,-,-
+355,U,Unident / Palm / Exotic,Unident / Palm / Exotic,N/A,EXOTIC,Evergreen,-,-
+356,U,Unident / Palm / Native,Unident / Palm / Native,N/A,NATIVE,Evergreen,-,-
+357,U,Unident / Shrub / Exotic,Unident / Shrub / Exotic,N/A,EXOTIC,Evergreen,-,-
+358,U,Unident / Shrub / Native,Unident / Shrub / Native,N/A,NATIVE,Evergreen,-,-
+359,V,V,N/A,0,0,0,N/A,-
+360,V,Viburnum odoratissimum,Sweet Viburnum,Adoxaceae,EXOTIC,Evergreen,VIOD,Exotic Hardwoods
+361,W,W,N/A,0,0,0,N/A,-
+362,W,Washingtonia filifera,California Fan Palm,Arecaceae,EXOTIC,Evergreen,WAFI,Palms
+363,W,Washingtonia robusta,Mexican Fan Palm,Arecaceae,EXOTIC,Evergreen,WARO,Palms
+364,W,Waterhousia floribunda,Weeping Lily Pilly,Myrtaceae,NATIVE,Evergreen,WAFL,Native Hardwoods
+365,W,Waterhousia floribunda 'Green Avenue',Weeping Lily Pilly,Myrtaceae,NATIVE,Evergreen,WAFL,Native Hardwoods
+366,Z,Z,N/A,0,0,0,N/A,-
+367,Z,Zelkova serrata,Keyaki,Ulmaceae,EXOTIC,Deciduous,ZESE,Exotic Hardwoods
+368,L,Leptospermum sp.,Leptospermum sp.,Myrtaceae,NATIVE,Evergreen,-,Native Hardwoods
+369,C,Cotoneaster glaucophyllus,Cotoneaster glaucophyllus,Rosaceae,EXOTIC,Evergreen,-,Exotic Hardwoods
+370,C,Corymbia sp.,Corymbia sp.,Myrtaceae,NATIVE,Evergreen,-,Native Hardwoods
+371,C,Carica papaya,Carica papaya,Caricaceae,EXOTIC,Evergreen,CAPA3,Exotic Hardwoods
+372,E,Ekebergia capensis,Ekebergia capensis,Meliaceae,EXOTIC,Evergreen,-,Exotic Hardwoods
+373,D,Diospyros sp.,Diospyros sp.,Ebenaceae,EXOTIC,Evergreen,-,Exotic Hardwoods
