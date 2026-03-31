@@ -269,7 +269,7 @@ Number,Genus,Scientific Name,Common Name,Family,Type,Form,iTree Code,Carbon Cate
 269,P,P,N/A,0,0,0,N/A,-,-,0,N/A,N/A,N/A
 270,P,Palm sp. (Exotic),Palm sp. (Exotic),Arecaceae,EXOTIC,Evergreen,-,Palms,-,0,ND,ND,ND
 271,P,Palm sp. (Native),Palm sp. (Native),Arecaceae,NATIVE,Evergreen,-,Palms,-,0,ND,ND,ND
-272,P,Palm sp. (Native),Avocado,Lauraceae,EXOTIC,Evergreen,PEAM,Exotic Hardwoods,-,0,ND,ND,ND
+272,P,Persea americana,Avocado,Lauraceae,EXOTIC,Evergreen,PEAM,Exotic Hardwoods,-,0,ND,ND,ND
 273,P,Phoenix canariensis,Canary Island Date Palm,Arecaceae,EXOTIC,Evergreen,PHCA,Palms,Climate Suited,6,S,S,S
 274,P,Phoenix dactylifera,Date Palm,Arecaceae,EXOTIC,Evergreen,PHDA4,Palms,Climate Suited,6,S,S,S
 275,P,Phoenix roebelenii,Pygmy Date Palm,Arecaceae,EXOTIC,Evergreen,PHRO,Palms,Climate Suited,6,S,S,S
@@ -371,3 +371,5 @@ Number,Genus,Scientific Name,Common Name,Family,Type,Form,iTree Code,Carbon Cate
 371,C,Carica papaya,Carica papaya,Caricaceae,EXOTIC,Evergreen,CAPA3,Exotic Hardwoods,-,0,ND,ND,ND
 372,E,Ekebergia capensis,Ekebergia capensis,Meliaceae,EXOTIC,Evergreen,-,Exotic Hardwoods,-,0,ND,ND,ND
 373,D,Diospyros sp.,Diospyros sp.,Ebenaceae,EXOTIC,Evergreen,-,Exotic Hardwoods,-,0,S,S,S
+374,P,Phoenix canariensis (F),Canary Island Date Palm (F),Arecaceae,EXOTIC,Evergreen,PHCA,Palms,Climate Suited,6,S,S,S
+375,P,Phoenix canariensis (M),Canary Island Date Palm (M),Arecaceae,EXOTIC,Evergreen,PHCA,Palms,Climate Suited,6,S,S,S
